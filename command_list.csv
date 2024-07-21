@@ -23,3 +23,16 @@
    23  git log
    24  command_list.csv
    25  history > command_list.csv
+   26  git add .
+   27  git commit -m "comman_list created"
+   28  git push
+   29  pwd
+   30  touch text_ignore.txt
+   31  nano .gitignore
+   32  git status
+   33  git add .
+   34  git commit -m "file modified"
+   35  touch main_test.txt
+   36  git add .
+   37  git commit -m "touch main_test created"
+   38  history > command_list.csv
